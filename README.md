@@ -7,18 +7,18 @@ This is authentication project built for web applications. This repository conta
 
 ## **Key Features:**
 
-###Login Page: Users can securely log in to their accounts with their credentials.
+Login Page: Users can securely log in to their accounts with their credentials.
 
-###Registration Page:### New users can create accounts by providing necessary information.
+Registration Page: New users can create accounts by providing necessary information.
 
-###Database Connection:### The system connects to a database to store user information securely.
+Database Connection: The system connects to a database to store user information securely.
 
 
 
 ## **Technologies Used:**
 
-###Frontend:### Angular, HTML, CSS
+Frontend: Angular, HTML, CSS
 
-###Backend:### Spring Boot
+Backend: Spring Boot
 
-###Database:### MySQL
+Database: MySQL
