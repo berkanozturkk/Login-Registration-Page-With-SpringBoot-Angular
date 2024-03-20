@@ -4,7 +4,7 @@ This is authentication project built for web applications. This repository conta
 
 
 
-**Key Features:**
+## **Key Features:**
 
 Login Page: Users can securely log in to their accounts with their credentials.
 
@@ -14,7 +14,7 @@ Database Connection: The system connects to a database to store user information
 
 
 
-**Technologies Used:**
+## **Technologies Used:**
 
 Frontend: Angular, HTML, CSS
 
