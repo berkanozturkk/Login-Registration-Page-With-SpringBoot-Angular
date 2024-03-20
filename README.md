@@ -7,7 +7,7 @@ This is authentication project built for web applications. This repository conta
 
 ## **Key Features:**
 
-###Login Page:### Users can securely log in to their accounts with their credentials.
+###Login Page: Users can securely log in to their accounts with their credentials.
 
 ###Registration Page:### New users can create accounts by providing necessary information.
 
