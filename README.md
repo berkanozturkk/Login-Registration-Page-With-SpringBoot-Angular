@@ -1,4 +1,4 @@
-# LoginPage
+# Login/Registration Page With SpringBoot Angular
 
 This project is a web application with a **secure** login page system. 
 
